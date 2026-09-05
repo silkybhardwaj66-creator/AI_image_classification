@@ -17,7 +17,7 @@ st.write("Upload a image and get insights using Gemini 2.5 Flash.")
 # -----------------------------
 # Gemini API Configuration
 # -----------------------------
-GOOGLE_API_KEY = "AQ.Ab8RN6KjWXbb_gL4LdUNsFo3ZHlj2ioBf6U7Iox67Xfe87yRaA"
+GOOGLE_API_KEY = "GOOGLE_API_KEY"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
